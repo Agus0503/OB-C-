@@ -7,7 +7,7 @@ namespace Ejercicio_01
         static void Main(string[] args)
         {
             string nombre = "Agus";
-            Console.WriteLine($"Hola {nombre}!");
+            Console.WriteLine("Hola " + nombre);
         }
     }
 }
